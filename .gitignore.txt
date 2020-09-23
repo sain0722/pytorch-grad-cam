@@ -110,4 +110,5 @@ fabric.properties
 ####### CUSTOM #######
 ######################
 
-gradcam.py
+./*.jpg
+.idea
